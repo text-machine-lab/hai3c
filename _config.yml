@@ -1,0 +1,56 @@
+title: Human–AI Co-Creativity Consortium
+description: Advancing human–AI creative problem solving in science and beyond.
+url: https://<your-username>.github.io
+baseurl: ""     # keep empty when publishing at username.github.io/<repo> use "/<repo>" if not using a custom domain
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "air"   # other options: default, dark, mint, sunrise, etc.
+logo: /assets/logo.png         # optional; add your logo to /assets
+breadcrumbs: true
+search: true
+
+# Navigation
+collections:
+  posts:
+    output: true
+    permalink: /updates/:title/
+
+# Header navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Science"
+    url: /science/
+  - title: "Practice & Innovation"
+    url: /practice/
+  - title: "Join the Beta"
+    url: /join/
+  - title: "Updates"
+    url: /updates/
+
+# Footer links (edit to taste)
+footer:
+  links:
+    - label: "Discussion"
+      url: https://github.com/<your-username>/haicc-site/discussions
+    - label: "Email"
+      url: "mailto:info@haicc.org"
+    - label: "Privacy"
+      url: /privacy/
+
+# Plugins allowed on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO & Analytics
+author:
+  name: Human–AI Co-Creativity Consortium
+twitter:
+  username: haicc      # optional
+google_analytics: ""   # paste GA4 measurement ID later; Minimal Mistakes will insert it
+
+# Build
+markdown: kramdown
+theme: null  # required when using remote_theme
