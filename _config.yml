@@ -2,7 +2,18 @@ title: Human–AI Co-Creativity Consortium
 description: Advancing human–AI creative problem solving in science and beyond.
 url: https://text-machine-lab.github.io
 baseurl: "/hai3c"     # keep empty when publishing at username.github.io/<repo> use "/<repo>" if not using a custom domain
-remote_theme: "mmistakes/minimal-mistakes"
+
+remote_theme: "mmistakes/minimal-mistakes@4.19.4"
+
+# Plugins allowed on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build
+markdown: kramdown
+theme: null  # required when using remote_theme
+
 
 # Minimal Mistakes settings
 minimal_mistakes_skin: "air"   # other options: default, dark, mint, sunrise, etc.
@@ -46,11 +57,6 @@ footer:
     - label: "Privacy"
       url: /privacy/
 
-# Plugins allowed on GitHub Pages
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 # SEO & Analytics
 author:
   name: Human–AI Co-Creativity Consortium
@@ -58,6 +64,3 @@ author:
 #  username: hai3c      # optional
 google_analytics: ""   # paste GA4 measurement ID later; Minimal Mistakes will insert it
 
-# Build
-markdown: kramdown
-theme: null  # required when using remote_theme
