@@ -47,3 +47,14 @@ Follow development and discussions on our [GitHub Discussions](https://github.co
 
 > *Ethics & privacy:* We publish clear consent terms and protect contributors. See our [Privacy](/privacy/) page.
 
+
+---
+
+### Partner Institutions
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; margin: 40px 0;">
+  <img src="{{ site.baseurl }}/assets/images/umass-lowell-logo.png" alt="UMass Lowell" style="height: 80px;">
+  <img src="{{ site.baseurl }}/assets/images/dartmouth-logo.png" alt="Dartmouth College" style="height: 80px;">
+  <img src="{{ site.baseurl }}/assets/images/penn-state-logo.png" alt="Penn State" style="height: 80px;">
+  <img src="{{ site.baseurl }}/assets/images/princeton-logo.png" alt="Princeton" style="height: 80px;">
+</div>
