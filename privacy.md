@@ -11,5 +11,5 @@ permalink: /privacy/
 - **Research-only** – non-public; accessible to vetted researchers  
 - **Private** – used only for internal evaluation, not for training
 
-We remove direct identifiers you provide in text. You may request deletion of your records by emailing **privacy@haicc.org** with the email you used to enroll.
+We remove direct identifiers you provide in text. You may request deletion of your records by contacting us using the email you used to enroll.
 
