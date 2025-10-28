@@ -2,7 +2,7 @@ title: Human–AI Co-Creativity Consortium
 description: Advancing human–AI creative problem solving in science and beyond.
 url: https://text-machine-lab.github.io
 baseurl: "/hai3c"     # keep empty when publishing at username.github.io/<repo> use "/<repo>" if not using a custom domain
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Minimal Mistakes settings
 minimal_mistakes_skin: "air"   # other options: default, dark, mint, sunrise, etc.
