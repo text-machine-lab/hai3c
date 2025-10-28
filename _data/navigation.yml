@@ -1,0 +1,12 @@
+# Header navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "Science"
+    url: /science/
+  - title: "Practice & Innovation"
+    url: /practice/
+  - title: "Join the Beta"
+    url: /join/
+  - title: "Updates"
+    url: /updates/
