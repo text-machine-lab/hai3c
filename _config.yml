@@ -33,9 +33,10 @@ nav:
 footer:
   links:
     - label: "Discussion"
-      url: https://github.com/<your-username>/haicc-site/discussions
-    - label: "Email"
-      url: "mailto:info@haicc.org"
+      icon: "fas fa-comments"
+      url: "https://github.com/text-machine-lab/hai3c/discussions"
+    #- label: "Email"
+    #  url: "mailto:info@haicc.org"
     - label: "Privacy"
       url: /privacy/
 
@@ -47,8 +48,8 @@ plugins:
 # SEO & Analytics
 author:
   name: Human–AI Co-Creativity Consortium
-twitter:
-  username: haicc      # optional
+#twitter:
+#  username: hai3c      # optional
 google_analytics: ""   # paste GA4 measurement ID later; Minimal Mistakes will insert it
 
 # Build
