@@ -18,7 +18,7 @@ theme: null  # required when using remote_theme
 
 # Minimal Mistakes settings
 minimal_mistakes_skin: "air"   # other options: default, dark, mint, sunrise, etc.
-logo: /assets/logo.png         # optional; add your logo to /assets
+logo: /assets/hands-colored-hai3c.png         # optional; add your logo to /assets
 breadcrumbs: true
 search: true
 
