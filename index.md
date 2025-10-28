@@ -3,6 +3,11 @@ layout: single
 title: HAI3C — Human–AI Co-Creativity Consortium
 subtitle: Crowdsourcing scientist–LLM interactions to train and evaluate creative reasoning
 classes: wide
+header:
+  overlay_image: /assets/hands-colored-hai3c.png
+  overlay_filter: 0.0
+  show_overlay_logo: true
+  caption: ""
 ---
 
 ### Human–AI Co-Creativity Consortium (HAI3C)
