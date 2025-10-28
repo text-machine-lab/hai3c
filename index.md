@@ -56,5 +56,6 @@ Follow development and discussions on our [GitHub Discussions](https://github.co
   <img src="{{ site.baseurl }}/assets/images/umass-lowell-logo.png" alt="UMass Lowell" style="height: 160px;">
   <img src="{{ site.baseurl }}/assets/images/dartmouth-logo.png" alt="Dartmouth College" style="height: 160px;">
   <img src="{{ site.baseurl }}/assets/images/penn-state-logo.png" alt="Penn State" style="height: 160px;">
+  <img src="{{ site.baseurl }}/assets/images/mit-logo.png" alt="MIT" style="height: 160px;">
   <img src="{{ site.baseurl }}/assets/images/princeton-logo.png" alt="Princeton" style="height: 160px;">
 </div>
