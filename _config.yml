@@ -3,12 +3,13 @@ description: Advancing human–AI creative problem solving in science and beyond
 url: https://text-machine-lab.github.io
 baseurl: "/hai3c"     # keep empty when publishing at username.github.io/<repo> use "/<repo>" if not using a custom domain
 
-remote_theme: "mmistakes/minimal-mistakes@4.19.4"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins allowed on GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 # Build
 markdown: kramdown
