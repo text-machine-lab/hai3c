@@ -21,7 +21,7 @@ Our current focus is to:
 - model **creative exploration**, and  
 - design benchmarks that measure progress toward **creative problem solving** in scientific discovery.
 
-Learn more: [Science →](/science/)
+Learn more: [Science →]({{ site.baseurl }}/science/)
 
 ---
 
@@ -30,9 +30,8 @@ Learn more: [Science →](/science/)
 We’re running a **closed beta** of our guided problem-solving interface.  
 You can help by contributing your own human–LLM sessions.
 
-- **Sign up for the beta:** [Join the Beta →](/join/)  
+- **Sign up for the beta:** [Join the Beta →]({{ site.baseurl }}/join/)  
 - **Share use-cases or join discussions:** [Discussion →](https://github.com/text-machine-lab/hai3c/discussions)  
-- **Explore other focus areas:** [Science →](/science/) · [Practice & Innovation →](/practice/)
 
 ---
 
