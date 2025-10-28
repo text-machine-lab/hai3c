@@ -25,7 +25,7 @@ Learn more: [Science →]({{ site.baseurl }}/science/)
 
 ---
 
-### Participate
+### 🚀 Participate
 
 We’re running a **closed beta** of our guided problem-solving interface.  
 You can help by contributing your own human–LLM sessions.
