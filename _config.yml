@@ -29,6 +29,12 @@ nav:
   - title: "Updates"
     url: /updates/
 
+# Logos
+sass:
+  load_paths:
+    - assets
+include: ["assets"]
+
 # Footer links (edit to taste)
 footer:
   links:
