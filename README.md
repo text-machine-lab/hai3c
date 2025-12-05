@@ -1,4 +1,4 @@
-## Human–AI Co-Creativity Consortium (HAIC3C)
+## Human–AI Co-Creativity Consortium (HAI3C)
 
 The **Human–AI Co-Creativity Consortium (HAI3C)** brings together researchers and practitioners exploring how **humans and large language models can co-create scientific insight**.  
 Our mission is to build the infrastructure, datasets, and evaluation frameworks needed to train AI systems that think *with* us — not just *for* us.*
