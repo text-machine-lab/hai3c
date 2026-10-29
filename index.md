@@ -13,8 +13,6 @@ header:
 
 ### Human–AI Co-Creativity Consortium (HAI3C)
 
-**AI models need to be better collaborators. Keeping humans in the loop keeps the diversity of exploration alive.**
-
 We bring together researchers in AI, cognitive science, creativity research, mathematics and theoretical physics to pilot better ways for humans to interact with models, and to measure which ones keep people engaged and exploration diverse. Our goal is for humans and AI to work together more productively, without losing human skill and without losing the diversity of exploration. We build the infrastructure, datasets, and evaluation frameworks needed to train AI systems that think *with* us — not just *for* us.
 
 ### 🧠 Why should you care about this?
