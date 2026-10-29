@@ -31,7 +31,7 @@ We bring together researchers in AI, cognitive science, creativity research, mat
 
 - **AGC-Bench** *(released)*: a meta-benchmark for measuring creativity in LLMs — 67 benchmarks across six domains, 83 models scored, an open-weight judge, and a public leaderboard. On human-matched tasks, the best human still beats the best model on novelty and diversity. [AGC-Bench on Hugging Face →](https://huggingface.co/agcbench-2026)
 - **The brainstorm arena** *(closed beta)*: a guided problem-solving interface where mathematicians work with frontier models on open problems. We vary how the models take part (in different roles, several at once addressing each other and the human, speaking up unprompted) and score each session on whether the human stays engaged and whether exploration stays diverse.
-- **The CrowdMath corpus**: ten years of collaborative mathematical research discussions, annotated for breakthrough moments, pivotal steps and new conjectures. It is the yardstick we score the arena's sessions against.
+- **The CrowdMath dataset**: 164 research discussions from ten years of the MIT PRIMES CrowdMath program, each traced from an open problem to a finished proof, with every post labeled by experts for its role - progress, proof, error, etc. [CrowdMath paper →](https://arxiv.org/abs/2606.06526)
 - **Next**: a public co-creativity benchmark that ranks models on how well they collaborate, scored on the human's share of the outcome; and post-training of open-weight models on collaborative sessions, as a proof of concept for the labs.
 
 Learn more: [Science →]({{ site.baseurl }}/science/)
