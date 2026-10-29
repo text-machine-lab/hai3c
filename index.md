@@ -1,7 +1,8 @@
 ---
 layout: single
 title: HAI3C — Human–AI Co-Creativity Consortium
-subtitle: Crowdsourcing scientist–LLM interactions to train and evaluate creative reasoning
+subtitle: Training AI to be a better collaborator, and keeping humans in the loop
+description: "AI models need to be better collaborators. Keeping humans in the loop keeps the diversity of exploration alive."
 classes: wide
 header:
   overlay_image: /assets/hands-colored-hai3c.png
@@ -12,41 +13,37 @@ header:
 
 ### Human–AI Co-Creativity Consortium (HAI3C)
 
-The **Human–AI Co-Creativity Consortium (HAI3C)** brings together researchers and practitioners exploring how **humans and large language models can co-create scientific insight**.  Our mission is to build the infrastructure, datasets, and evaluation frameworks needed to train AI systems that think *with* us — not just *for* us. 
+**AI models need to be better collaborators. Keeping humans in the loop keeps the diversity of exploration alive.**
 
-We would like our models to be better scientific collaborators by learning from structured records of **scientist–LLM problem-solving sessions**.
+We bring together researchers in AI, cognitive science, creativity research, mathematics and theoretical physics. Our goal is for humans and AI to work together more productively, without losing human skill and without losing the diversity of exploration. To get there, we build the infrastructure, datasets, and evaluation frameworks needed to train AI systems that think *with* us — not just *for* us.
 
-### 🧠 Creative Problem Solving in Science
+### 🧠 Why it matters
 
-We are building a community of researchers and practitioners who believe **human–AI co-creativity** can accelerate conceptual breakthroughs, especially in **theoretical sciences** where progress hinges on *ideas*, rather than experimental work and data analysis.
+**Today's models are competent, but they are built as tools.** We hand over the assignment, go away, and come back for the result. By then the model has brainstormed with itself, and we are left reviewing the outcome instead of contributing to it. People think together differently: an idea, pushback, a tangent, building on it, agreeing to go forward. We want models that brainstorm *with* us while the work is still happening.
 
-Our current focus is to:
+**Human exploration is diverse, and easy to lose.** Models are trained to explore the reasoning paths that lead to reward. People explore out of curiosity, in many directions at once, and many results come by chance. A person in the loop can go off on a tangent in the middle of the work; a model brainstorming with itself is guided by the distribution it learned. If people step out of the process, that diversity goes with them, and there will be no way to tell later what was lost.
 
-- capture **interactive trajectories** rather than isolated answers,  
-- model **creative exploration**, and  
-- design benchmarks that measure progress toward **creative problem solving** in scientific discovery.
+**Models need a second training objective.** Beyond delivering results, they should be trained for productive collaboration with the human. This is an alignment question, and it matters most for the frontier models everyone will default to using. Since you cannot develop methods without measuring their impact, we start with measurement.
+
+---
+
+### What we're building
+
+- **AGC-Bench** *(released)*: a meta-benchmark for measuring creativity in LLMs — 67 benchmarks across six domains, 83 models scored, an open-weight judge, and a public leaderboard. On human-matched tasks, the best human still beats the best model on novelty and diversity. [AGC-Bench on Hugging Face →](https://huggingface.co/agcbench-2026)
+- **The brainstorm arena** *(closed beta)*: a guided problem-solving interface where mathematicians work with frontier models on open problems. We vary how the models take part (in different roles, several at once addressing each other and the human, speaking up unprompted) and score each session on whether the human stays engaged and whether exploration stays diverse.
+- **The CrowdMath corpus**: ten years of collaborative mathematical research discussions, annotated for breakthrough moments, pivotal steps and new conjectures. It is the yardstick we score the arena's sessions against.
+- **Next**: a public co-creativity benchmark that ranks models on how well they collaborate, scored on the human's share of the outcome; and post-training of open-weight models on collaborative sessions, as a proof of concept for the labs.
 
 Learn more: [Science →]({{ site.baseurl }}/science/)
 
 ---
 
-### 🚀 Participate
+### 🚀 Get involved
 
-We’re running a **closed beta** of our guided problem-solving interface.  
-You can help by contributing your own human–LLM sessions.
+We would rather join forces than run parallel efforts. If you work on human–AI co-creativity, on how to measure it, or on what AI is doing to human skill and exploration, we want to hear from you.
 
-- **Sign up for the beta:** [Join the Beta →]({{ site.baseurl }}/join/)  
-- **Share use-cases or join discussions:** [Discussion →](https://github.com/text-machine-lab/hai3c/discussions)  
-
----
-
-### Future Plans
-
-- **Public benchmark** for creative reasoning and collaborative problem solving  
-- **Arena platform** for evaluating LLMs on open-ended creative tasks  
-- **Community data contributions** to capture reasoning episodes and “breakthrough points”  
-
-Follow development and discussions on our [GitHub Discussions](https://github.com/text-machine-lab/hai3c/discussions).
+- **Research groups and AI labs:** start a conversation on our [Discussion board →](https://github.com/text-machine-lab/hai3c/discussions)
+- **Mathematicians and theoretical scientists:** sign up to work with the models in our arena: [Join the Beta →]({{ site.baseurl }}/join/)
 
 ---
 
